@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # SafiMaatje — Digital Cyber Safety Guide (EN/NL)
 
 SafiMaatje is a friendly, inclusive digital assistant designed to help citizens, families, and small businesses in Den Haag stay safe online.
