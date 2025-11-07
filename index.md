@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # SafiMaatje
 
 A friendly digital guide that helps people in Den Haag stay safe online.
