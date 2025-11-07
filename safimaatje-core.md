@@ -1,3 +1,6 @@
+---
+layout: default
+---
 # SafiMaatje Core Knowledge Base (EN & NL)
 
 ---
